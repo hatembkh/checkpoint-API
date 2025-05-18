@@ -1,8 +1,8 @@
 
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import NavUsers from './Components/NavYser';
-import Users from './Components/Users';
+import NavUsers from './Components/NavUser.js';
+import Users from './Components/UserList.js';
 import Home from './Components/Home';
 import Profil from './Components/Profil';
 import { useState } from 'react';

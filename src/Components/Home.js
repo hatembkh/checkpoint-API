@@ -1,8 +1,8 @@
 const Home=()=>{
     return(
-        <>
-        <h3>Home</h3>
-        </>
+        <div className="home-container">
+        <h3 className="home-title">Welcome to my first API application</h3>
+        </div>
     )
 }
 
